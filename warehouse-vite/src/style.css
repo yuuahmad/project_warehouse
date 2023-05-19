@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn-green {
+    @apply bg-green-500 px-4 py-1 mx-2 uppercase rounded-md text-white text-lg text-center;
+  }
+    .btn-red {
+    @apply bg-red-500 px-4 py-1 mx-2 uppercase rounded-md text-white text-lg text-center;
+  }
+  .judul-satu{
+    @apply text-center text-2xl font-semibold p-5 capitalize;
+  }
+}

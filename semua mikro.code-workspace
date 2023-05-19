@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "esp32 suhu"
+		},
+		{
+			"path": "input barang nodemcu"
+		},
+		{
+			"path": "output barang nodemcu"
+		}
+	],
+	"settings": {}
+}
